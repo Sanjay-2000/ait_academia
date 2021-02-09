@@ -1,4 +1,4 @@
-# f_academia
+# Academia
 
 A new Flutter project.
 

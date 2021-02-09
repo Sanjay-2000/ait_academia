@@ -40,7 +40,7 @@ class Cards extends StatelessWidget {
                     child: Text(
                       label,
                       style: TextStyle(
-                          fontSize: 22,
+                          fontSize: 18,
                           color: Colors.black,
                           fontWeight: FontWeight.bold),
                       textAlign: TextAlign.center,

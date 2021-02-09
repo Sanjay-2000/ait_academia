@@ -12,6 +12,6 @@ class Circulars extends StatelessWidget {
             onPressed: () {
               Navigator.pop(context);
             },
-            child: Text('******* C-I-R-C-U-L-A-R-S  *******')));
+            child: Text('*******---- C-I-R-C-U-L-A-R-S ---- *******')));
   }
 }

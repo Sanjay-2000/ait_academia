@@ -5,7 +5,7 @@ class TimeTable extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.blueGrey,
+          backgroundColor: Colors.yellow,
           title: Text('Time Table'),
         ),
         body: FlatButton(

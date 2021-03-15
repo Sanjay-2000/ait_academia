@@ -5,7 +5,7 @@ class Events extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.yellow,
+          backgroundColor: Colors.teal,
           title: Text('Events'),
         ),
         body: FlatButton(

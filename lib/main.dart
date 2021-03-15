@@ -8,7 +8,6 @@ import 'package:f_academia/containers/My%20courses.dart';
 import 'package:f_academia/containers/Timetable.dart';
 import 'package:flutter/material.dart';
 import 'menu.dart';
-import 'containers/My courses.dart';
 
 void main() {
   runApp(Funacademia());

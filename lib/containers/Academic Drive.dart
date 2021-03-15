@@ -5,7 +5,7 @@ class AcademicDrive extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.yellow,
+          backgroundColor: Colors.red,
           title: Text('Academic Drive'),
         ),
         body: FlatButton(
